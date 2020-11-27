@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WLxarvnS1syi+H0nVm1JNA282XKFavFSCQZLUTO8G2L6YxBuU7uSEI6WXRBDdT3vAYsX9Gd4TXZmIn8cRcTVvg==",
+  "dgSpecHash": "uKkF8KenrLMQwyZMgffFa3r5XPNcRY+/awflM8t7hQ9YYva8KndK+zNI8zcreOkLEaXP6Wl6YIowzskJCKROKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
+  "projectFilePath": "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BULUTs\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\BULUTs\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

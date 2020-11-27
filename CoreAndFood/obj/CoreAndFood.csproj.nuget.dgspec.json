@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj": {}
+    "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj": {
+    "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
+        "projectUniqueName": "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
         "projectName": "CoreAndFood",
-        "projectPath": "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
+        "projectPath": "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\CoreAndFood.csproj",
         "packagesPath": "C:\\Users\\BULUTs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BULUTs\\source\\repos\\CoreAndFood\\CoreAndFood\\obj\\",
+        "outputPath": "D:\\YAPTIĞIM PROJELER\\Net.Core Projeleri\\CoreAndFood\\CoreAndFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
