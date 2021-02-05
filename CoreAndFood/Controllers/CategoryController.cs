@@ -41,6 +41,16 @@ namespace CoreAndFood.Controllers
             };
             return View(ct);
         }
+        [HttpPost]
+        public IActionResult CategoryUpdate(Category p)
+        {
+            var x = categoryRepository.TGet(p.CategoryID);
+            x.CategoryName = p.CategoryName;
+            x.CategoryDescription = p.CategoryDescription;
+            x.Status = true;
+            categoryRepository.TUpdate(x);
+            return RedirectToAction("Index");
+        }
 
     }
 }
