@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CoreAndFood.Data;
+using CoreAndFood.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CoreAndFood.Controllers
@@ -40,6 +41,27 @@ namespace CoreAndFood.Controllers
                 stock = 220
             });
             return cs;
+        }
+        public IActionResult Index3()
+        {
+            return View();
+        }
+        public IActionResult VisualizeProductResult2()
+        {
+            return Json(FoodList());
+        }
+        public List<Class2> FoodList()
+        {
+            List<Class2> cs2 = new List<Class2>();
+            using(var c =new Context())
+            {
+                cs2 = c.Foods.Select(x => new Class2
+                {
+                    foodname = x.Name,
+                    stock = x.Stock
+                }).ToList();
+            }
+            return cs2;
         }
     }
 }
