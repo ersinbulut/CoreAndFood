@@ -291,3 +291,4 @@ D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netco
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Category\CategoryAdd.cshtml.g.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Food\FoodAdd.cshtml.g.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Category\CategoryGet.cshtml.g.cs
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Food\FoodGet.cshtml.g.cs
