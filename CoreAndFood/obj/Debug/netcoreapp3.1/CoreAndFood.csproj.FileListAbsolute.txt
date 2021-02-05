@@ -269,8 +269,6 @@ D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netco
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.csprojAssemblyReference.cache
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.AssemblyInfoInputs.cache
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.AssemblyInfo.cs
-D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.csproj.CoreCompileInputs.cache
-D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.MvcApplicationPartsAssemblyInfo.cache
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.RazorAssemblyInfo.cache
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.RazorAssemblyInfo.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.TagHelpers.input.cache
@@ -292,3 +290,13 @@ D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netco
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Food\FoodAdd.cshtml.g.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Category\CategoryGet.cshtml.g.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Food\FoodGet.cshtml.g.cs
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.csproj.CoreCompileInputs.cache
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.MvcApplicationPartsAssemblyInfo.cs
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.MvcApplicationPartsAssemblyInfo.cache
