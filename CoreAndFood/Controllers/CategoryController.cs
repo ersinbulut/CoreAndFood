@@ -30,6 +30,17 @@ namespace CoreAndFood.Controllers
             categoryRepository.TAdd(p);
             return RedirectToAction("Index");
         }
+        public IActionResult CategoryGet(int id)
+        {
+            var x = categoryRepository.TGet(id);
+            Category ct = new Category
+            {
+                CategoryName = x.CategoryName,
+                CategoryDescription = x.CategoryDescription,
+                CategoryID = x.CategoryID
+            };
+            return View(ct);
+        }
 
     }
 }
