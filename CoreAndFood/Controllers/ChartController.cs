@@ -63,5 +63,10 @@ namespace CoreAndFood.Controllers
             }
             return cs2;
         }
+
+        public IActionResult Statistics()
+        {
+            return View();
+        }
     }
 }
