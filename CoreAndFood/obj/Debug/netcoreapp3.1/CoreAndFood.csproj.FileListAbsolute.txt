@@ -300,3 +300,5 @@ D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\bin\Debug\netco
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.csproj.CoreCompileInputs.cache
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.MvcApplicationPartsAssemblyInfo.cs
 D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\CoreAndFood.MvcApplicationPartsAssemblyInfo.cache
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Chart\Index.cshtml.g.cs
+D:\YAPTIĞIM PROJELER\Net.Core Projeleri\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp3.1\Razor\Views\Chart\Index2.cshtml.g.cs
